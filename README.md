@@ -1,4 +1,4 @@
-# Teating Typescript App
+# Testing Typescript App
 
 Example of testing a Typescript application on React  
 Based on the materials of the book [Fullstack React with Typescript]
